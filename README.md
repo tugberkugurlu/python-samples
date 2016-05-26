@@ -15,3 +15,8 @@ Virtual Environments is also the way to scope them to projects: http://docs.pyth
 ### dependencies
 
 Requirements file: https://pip.readthedocs.io/en/1.1/requirements.html  
+
+
+## Resources
+
+ - [Extending Python with C or C++](https://docs.python.org/2/extending/extending.html)
