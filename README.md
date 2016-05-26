@@ -4,7 +4,7 @@ To install `pip`: `sudo apt-get -y install python-pip`.
 
 ### 4-clone-repos.py
 
-This requires GitPython module to be installed. Install this through `pip`: `pip install gitpython`
+This requires GitPython module to be installed. Install this through `pip`: `pip install gitpython`.
 
 ### Setup.py
 
